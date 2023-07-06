@@ -11,4 +11,3 @@ def gui():
 
   win.mainloop()
 
-gui()
